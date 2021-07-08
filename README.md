@@ -1,8 +1,8 @@
 # secretneighborhacks
 Open sourced visual mods for the game Secret Neighbour
 
-In the next few days you will get my Visual Studio project uploaded here. Btw the visual mods only affect you and other players will see you normaly.
-I added one option to enable "Fake Ghost". It just makes the player invisiable for you. I will maybe also release my skin changer.
+In the next few days you will get my Visual Studio project uploaded here. Btw the visual mods only affect you,other players will see you normaly.
+I added one option to enable "Fake Ghost". It just makes the player invisible for you. I will maybe also release my skin changer.
 
 # Easy
 even people with no coding skills can understand how this "hack" works. We are just unloading or reloading specific assets.
